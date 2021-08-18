@@ -8,6 +8,8 @@ Para abordar el tema pr3incipal, es necesario tener conceptos que seran la clave
 Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y dism inuir los daños que este provocan.
 
 ¿Qué es un patógeno?
+
+
 Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos que nos pueden provocar  diferentes enfermedades en nuestro cuerpo.
 Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:
 *Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.
