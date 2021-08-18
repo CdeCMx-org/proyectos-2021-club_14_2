@@ -1,12 +1,27 @@
-## Nombre de proyecto
+## Las grandes consecuencias de los pequeños patógenos:  Coinfección por pátogenos respiratorios y su impacto en el pronóstico de pacientes con COVID.19.
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
 
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
 
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
+### PATÓGENOS RESPIRATORIOS.
+Para abordar el tema pr3incipal, es necesario tener conceptos que seran la clave para una comprensión idónea.
 
-### Introducción
+Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y dism inuir los daños que este provocan.
+
+¿Qué es un patógeno?
+Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos que nos pueden provocar  diferentes enfermedades en nuestro cuerpo.
+Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:
+*Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.
+* Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.
+* Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.
+* Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.
+
+
+Teniendo esto en cuenta, vamos a empezar con la problemática que hemos abordado.
+Actualmente,para el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mund
+La coinfección por dos o más patógenos es un hallazgo frecuente en infectología, sin embargo se debe de considerar un factor importante en el manejo del COVID-19 porque podría provocar  un diagnóstico erróneo, haciendo crecer  las tasas de mortalidad.
+
+
+La  coinfección  entre  otros  microorganismos  y  el  SARS-CoV-2, como virus, bacterias y hongos, podría ser  un  factor  muy  importante  en  COVID-19,  el  cual  podría  aumentar  las  dificultades  en  el  diagnóstico,  manejo, pronóstico, e incluso aumentar los síntomas y  la  mortalidad.Algunos  estudios  sugieren  que  la  coinfección  por  enterovirus  (EV),  rinovirus  (RV),  metaneumovirus  (MPV),  y  virus  sincitial  respiratorio  (VSR)   podrían   ser   comunes
 
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
