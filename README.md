@@ -3,9 +3,9 @@
 
 
 ### PATÓGENOS RESPIRATORIOS.
-Para abordar el tema pr3incipal, es necesario tener conceptos que seran la clave para una comprensión idónea.
+Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea.
 
-Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y dism inuir los daños que este provocan.
+Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
 
 ¿Qué es un patógeno?
 
@@ -18,18 +18,22 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
 * Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esforas.
 
 
+Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay patógenos en las vías respiratorias, que recordemos que el sistema respiratorio son  las partes del cuerpo que participan en la respiración, incluyendo pulmones, nariz y garganta.
+
 Teniendo esto en cuenta, vamos a empezar con la problemática que hemos abordado.
 Actualmente,para el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mund
-La coinfección por dos o más patógenos es un hallazgo frecuente en infectología, sin embargo se debe de considerar un factor importante en el manejo del COVID-19 porque podría provocar  un diagnóstico erróneo, haciendo crecer  las tasas de mortalidad.
+La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de la infección producida por el virus SARS-CoV-2, al obtener un falso positivo o un falso negativo a la determinación de muestras nasofaríngeas y es allí un problema de cual abordaremos.
+
+Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a las naciones unidas. Pero tú que estás leyendo esto te preguntarás, ¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de pacientes con COVID.19? 
+Sencillo. Este tercer objetivo tiene como fin garantizar una vida sana y promover el bienestar para todos en todas las edades y es que actualmente, estamos viviendo una crisis mundial trayendo consigo el sufrimiento en el cambio radical en nuestras vidas.
+Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas(ONU), la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno.
 
 
-La  coinfección  entre  otros  microorganismos  y  el  SARS-CoV-2, como virus, bacterias y hongos, podría ser  un  factor  muy  importante  en  COVID-19,  el  cual  podría  aumentar  las  dificultades  en  el  diagnóstico,  manejo, pronóstico, e incluso aumentar los síntomas y  la  mortalidad.Algunos  estudios  sugieren  que  la  coinfección  por  enterovirus  (EV),  rinovirus  (RV),  metaneumovirus  (MPV),  y  virus  sincitial  respiratorio  (VSR)   podrían   ser   comunes
+Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuencias de los pequeños patógenos". 
+¿Quién pensaría que un pequeño microorganismo fue capaz de hacer una pandemia que llevaría a confinarnos hasta la actualidad?
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes debemos de hacer esa curiosidad por ayudar a la ciencia a resolver uno de los 17 ODS.
+
 
 ### Métodología
 
