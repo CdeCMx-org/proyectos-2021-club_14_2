@@ -38,6 +38,31 @@ Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes 
 ### Métodología
 
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: ¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?, por nombrar algunas preguntas.
+
+Para nosotros, eso fue la base primordial para la elección de un proyecto.
+Nos hemos basado en seguir los siguientes pasos de manera cronológica:
+1. Seleccionar un tema.
+2. Identificar un problema del tema seleccionado.
+3. Definir e investiga del problema
+4. Investigar antecedentes.
+5. Crear una hipotésis.
+6. Probar hipotésis.
+7. Analizar resultados obtenidos.
+8. Realizar una conclusión.
+9. Hacer un vídeo.
+
+
+
+### Antecedentes.
+
+
+
+### Hipotésis.
+
+
+
+
 
 ### Resultados
 
