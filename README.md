@@ -1,4 +1,4 @@
-## Las grandes consecuencias de los pequeños patógenos:  Coinfección por pátogenos respiratorios y su impacto en el pronóstico de pacientes con COVID.19.
+## Las grandes consecuencias de los pequeños patógenos:  Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID.19.
 
 
 
@@ -22,11 +22,11 @@ Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay p
 
 Teniendo esto en cuenta, vamos a empezar con la problemática que hemos abordado.
 Actualmente,para el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mund
-La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de la infección producida por el virus SARS-CoV-2, al obtener un falso positivo o un falso negativo a la determinación de muestras nasofaríngeas y es allí un problema de cual abordaremos.
+La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de recuperación de la infección producida por el virus SARS-CoV-2, al obtener un falso positivo o un falso negativo a la determinación de muestras nasofaríngeas y es allí un problema de cual abordaremos.
 
-Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a las naciones unidas. Pero tú que estás leyendo esto te preguntarás, ¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de pacientes con COVID.19? 
+Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a las naciones unidas. Pero tú que estás leyendo esto te preguntarás, ¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID.19? 
 Sencillo. Este tercer objetivo tiene como fin garantizar una vida sana y promover el bienestar para todos en todas las edades y es que actualmente, estamos viviendo una crisis mundial trayendo consigo el sufrimiento en el cambio radical en nuestras vidas.
-Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas(ONU), la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno.
+Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas(ONU), la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno, entonces teniendo esto en cuenta, este proyecto busca tener enfoque en disminuir la tasa de mortalidad por muertes de COVID-19.
 
 
 Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuencias de los pequeños patógenos". 
@@ -37,7 +37,6 @@ Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes 
 
 ### Métodología
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: ¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?, por nombrar algunas preguntas.
 
 Para nosotros, eso fue la base primordial para la elección de un proyecto.
@@ -48,9 +47,10 @@ Nos hemos basado en seguir los siguientes pasos de manera cronológica:
 4. Investigar antecedentes.
 5. Crear una hipotésis.
 6. Probar hipotésis.
-7. Analizar resultados obtenidos.
-8. Realizar una conclusión.
-9. Hacer un vídeo.
+7. Medir y clasificar 
+8. Analizar resultados obtenidos.
+9. Realizar una conclusión.
+10. Hacer un vídeo.
 
 
 
@@ -61,7 +61,6 @@ Objetivo principal: Evaluar la frecuencia de coinfección con patógenos respira
 
 
 ### Hipotésis.
-
 
 
 
