@@ -21,12 +21,12 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
 Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay patógenos en las vías respiratorias, que recordemos que el sistema respiratorio son  las partes del cuerpo que participan en la respiración, incluyendo pulmones, nariz y garganta.
 
 Teniendo esto en cuenta, vamos a empezar con la problemática que hemos abordado.
-Actualmente,para el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mundo.
+Actualmente,para el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mundo.[1]
 
 La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de recuperación de la infección producida por el virus SARS-CoV-2.
-Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). Pero tú que estás leyendo esto te preguntarás, ¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19? 
+Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). Pero tú que estás leyendo esto te preguntarás, ¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19? [2][3]
 Sencillo. Este tercer objetivo tiene como fin garantizar una vida sana y promover el bienestar para todos en todas las edades y es que actualmente, estamos viviendo una crisis mundial trayendo consigo el sufrimiento en el cambio radical en nuestras vidas.
-Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas, la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno, entonces teniendo esto en cuenta, este proyecto busca tener enfoque en disminuir la tasa de mortalidad por COVID-19.
+Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas, la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno, entonces teniendo esto en cuenta, este proyecto busca tener enfoque en disminuir la tasa de mortalidad por COVID-19.[4]
 
 
 Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuencias de los pequeños patógenos". 
@@ -55,7 +55,7 @@ Nos hemos basado en seguir los siguientes pasos de manera cronológica:
 
 
 ### 4.Antecedentes.
-La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. La variabilidad de este y otros indicadores puede deberse a la presencia de otras condiciones como las coinfecciones respiratorias. Se han reportado la presencia de coinfecciones en alrededor del 10 a 12,5% de pacientes hospitalizados por COVID19 
+La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. La variabilidad de este y otros indicadores puede deberse a la presencia de otras condiciones como las coinfecciones respiratorias. Se han reportado la presencia de coinfecciones en alrededor del 10 a 12,5% de pacientes hospitalizados por COVID19. [5]
 
 Objetivo principal: Evaluar la frecuenciade recuperación por  coinfección con patógenos respiratorios bacterianos y virales detectados en  mediante algoritmos de estimación de la dimensión fractal de las imagenes de tomografía computarizada (CT) en pulmones de personas con COVID-19.
 
@@ -65,8 +65,8 @@ Los pacientes que muestran una dimensión fractal más alto del promedio de un p
 
 
 ### 6.Comprobación de la hipotésis.
-Para comprobar nuestra hipotésis, hemos trabajado con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.
-La base de datos contiene 275 tomografías  computarizadas  de pulmones positivas para COVID-19 y 396 muestras de pulmones sanos, ambas tienen su correspondiente archivo excel.
+Para comprobar nuestra hipotésis, hemos trabajado con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.[6]
+La base de datos contiene 349 tomografías  computarizadas  de pulmones positivas para COVID-19 y 396 muestras de pulmones sanos, ambas tienen su correspondiente archivo excel.[7]
 Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos a SARS-COV-2, ya que en él se encuentran datos esenciales para nuestra investigación tales como:
 1.Número de dentificación del paciente.
 2. Edad.
@@ -74,9 +74,9 @@ Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos
 4. Lugar
 5. Tiempo desde que se presentaron los síntomas.
 6. Gravedad del paciente.
-por mencionar algunos.
 
-Después de tener a nuestra disposición la base de datos, se procedió a calcular la dimensión fractal de nuestros pulmones sanos y pulmones dañados. 
+
+Después de tener a nuestra disposición la base de datos, se procedió a calcular la dimensión fractal de nuestros pulmones sanos y pulmones dañados con una programación en Matlab la cuál fue desarrollado por el Doctor Omar Alejandro Olvera Guerrero quien tiene un posgrado en Ciencias y Tecnologías de la Información. Él impartió la materia de procesamiento de señales biomédicas  en la Universidad Politécnica de Chiapas y fue allí donde explicó la importancia del cálculo de las dimensaiones fractales aportados a las ciencias médicas.
 
 
 
@@ -98,7 +98,22 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. Con esto, se podría comprobar la hipótesis el cual, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía,  y se obtendría una frecuencia respiratoria baja, en caso contrario, existe una recuperación y tendríamos a nuestros alveolos débiles provocando una frecuencia respiratoria mucho más inestable.
+Por último, debemos de tomar en cuenta de que para hacer una amplia investigación deberíamos comprobar las imágenes con los diferentes equipos pertenecientes al gabinete de imagenología y de laboratorio, ya que no debemos descartar ciertos posibles diagnósticos porque cada uno muestra diferentes resultados y hacen un mejor diagnóstico.
+
+Hay que agregar que el cálculo de las dimensiones fractales en las ciencias médicas aún no es un campo completamente amplio, por lo que se sugiere seguir investigando y probando diferentes métodos para poder obtener mejores resultados.
+
+### Referencias bibliográficas.
+[1] Cruz, M. P., Santos, E., Cervantes, M. V., & Juárez, M. L. (2021). COVID-19, una emergencia de salud pública mundial. Revista Clínica Española, 221(1), 55-61.
+[2] Quiñones-Laveriano, D. M., Soto, A., & Quilca-Barrera, L. (2021). Frecuencia de coinfección por patógenos respiratorios y su impacto en el pronóstico de pacientes con COVID-       19. Revista de la Facultad de Medicina Humana, 21(3).
+[3] Xing, Q. (2020, 1 enero). Precautions are Needed for COVID-19 Patients with Coinfection of Common Respiratory Pathogens. MedRxiv.                                                   https://www.medrxiv.org/content/10.1101/2020.02.29.20027698v2.full
+[4] Moran, M., Moran, M., Moran, M., & M. (s. f.). Salud. Desarrollo Sostenible. Recuperado 19 de agosto de 2021, de https://www.un.org/sustainabledevelopment/es/health/
+[5] Tarazona, S. T., & Valdivia, A. V. (2020, 1 mayo). Coinfección por patógenos respiratorios virales y bacterianos detectados por métodos moleculares en pacientes hospitalizados por COVID-19 y su impacto en la mortalidad y desenlaces desfavorables. Universidad Ricardo Palma. https://repositorio.urp.edu.pe/handle/URP/3035
+[6] Xie, P. (2020b, abril 5). COVID-CT-Dataset: A CT Scan Dataset about COVID-19 - Towards Data Science. Towards Data Science.
+    https://towardsdatascience.com/covid-ct-dataset-a-   ct-scan-dataset-about-covid-19-fb391de55ae6
+[7] U. (s. f.-a). GitHub - UCSD-AI4H/COVID-CT: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. GitHub. Recuperado 19 de agosto de 2021, de
+    https://github.com/UCSD-AI4H/COVID-CT
+
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
@@ -109,8 +124,6 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Estudiante 1: Nancy Solís Grajales.
+* Estudiante 2: Lilián Michelle Lopez Carrasco
 
